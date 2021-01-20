@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE fuentes SYSTEM "fuentes.dtd">
+<fuentes>
+    <fuente nombre="as" url="https://as.com/rss/tags/ultimas_noticias.xml"/>
+    <fuente nombre="marca" url="https://e00-marca.uecdn.es/rss/portada.xml"/>
+    <fuente nombre="heraldo" url="https://est.zetaestaticos.com/aragon/rss/portada_es.xml"/>
+    <fuente nombre="sport" url="https://www.sport.es/es/rss/last-news/news.xml"/>
+    <fuente nombre="fox" url="https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU"/>
+</fuentes>

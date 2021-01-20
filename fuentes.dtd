@@ -1,0 +1,5 @@
+<!ELEMENT fuentes (fuente*)>
+<!ELEMENT fuente EMPTY>
+<!ATTLIST fuente
+        nombre CDATA #REQUIRED
+        url CDATA #REQUIRED>
